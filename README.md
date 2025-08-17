@@ -6,7 +6,7 @@
 
 🎮 Interested in simple and fun game development with Flutter
 
-🌍 Founder of **Ayral Way** (programming & creative tech services)
+🌍 Founder of **[Ayral Way](https://ayralway.ir)** (programming & creative tech services)
  
 🌐 WordPress developer – designing **personal, corporate, and e-commerce websites**
 
