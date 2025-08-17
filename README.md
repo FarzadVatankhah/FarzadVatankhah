@@ -5,7 +5,7 @@
 - 🚀 Building apps like inventory systems, check management, and music players
 - 
 - 🎮 Interested in simple and fun game development with Flutter
-
+- 
 - 🌍 Founder of **Ayral Way** (programming & creative tech services)
 - 
 - 🌐 WordPress developer – designing **personal, corporate, and e-commerce websites**
